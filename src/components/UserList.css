@@ -1,0 +1,10 @@
+.user-list ul {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.user-list ul li{
+   list-style: none;
+}
